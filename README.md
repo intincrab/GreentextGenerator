@@ -2,6 +2,13 @@
 
 a Svelte-powered site for generating greentext.
 
+## Todo
+
+- [ ] Add more greentext templates.
+- [ ] A better UI, more close to actual one.
+- [ ] Support the basic greentext rules.
+- [ ] Optimize for mobile devices.
+
 ## running Locally
 to run the greentext generator locally, first clone the repository:
 
