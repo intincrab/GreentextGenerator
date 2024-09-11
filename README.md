@@ -6,7 +6,7 @@ a Svelte-powered site for generating greentext.
 
 - [ ] Add more greentext templates.
 - [ ] A better UI, more close to actual one.
-- [ ] Support the basic greentext rules.
+- [x] Support the basic greentext rules.
 - [ ] Optimize for mobile devices.
 
 ## running Locally
